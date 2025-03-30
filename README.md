@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻, I'm Kishan Thanki<br>👨🏻‍🎓 Master's student in Information Technology (MSc IT).<br>🌱 Currently exploring: Cloud services like AWS, Azure, and Google Cloud for scalable application deployment.<br>📫 Reach me at kishanthankiat10@gmail.com.
+Hi 👋🏻, I'm Kishan Thanki<br>👨🏻‍🎓 Master's student in Information Technology (MSc IT).<br>🌱 Currently exploring: Cloud services like AWS, Azure, and Google Cloud for scalable application deployment. Turning 'it works on my machine' into 'it works everywhere.<br>📫 Reach me at kishanthankiat10@gmail.com.
 
 
 ## 🌐 Socials:
