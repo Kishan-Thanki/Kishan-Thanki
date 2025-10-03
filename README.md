@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋🏻, I'm Kishan Thanki<br>👨🏻‍🎓 Master's student in Information Technology (MSc IT).<br>🌱 Currently exploring: Cloud services like AWS for scalable application deployment.
-<br>📫 Reach me at kishanthankiat10@gmail.com.
+Hi 👋🏻, I'm Kishan Thanki<br>👨🏻‍🎓 Master's student in Information Technology (MSc IT).<br>🌱 Currently focused on deepening my understanding of system design, distributed systems, and cloud-native architecture.
+<br>📫 Reach me at kishanthankiat10@gmail.com or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=kishanthanki8).
 
 
 ## 🌐 Socials:
