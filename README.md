@@ -1,8 +1,7 @@
 # 👋🏻 Hello, I'm **Kishan Thanki**
 
 **Software Engineer**
-
-Working with backend architecture and cloud infrastructure. What pulls me is the engineering — the invisible mechanics that make everything run.
+Working with backend architecture and cloud infrastructure. All about the interesting engineering — the invisible mechanics that make everything run
 
 ## Socials:
 [kishanthanki.dev](https://kishanthanki.dev)
