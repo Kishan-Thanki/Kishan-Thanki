@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm **Kishan Thanki**
+# 👋🏻 Hello, I'm **Kishan Thanki**
 
 **Software Engineer**
 
@@ -11,7 +11,7 @@ Working with backend architecture and cloud infrastructure. What pulls me is the
 
 [linkedin.com/in/kishanthanki8/](https://www.linkedin.com/in/kishanthanki8/)
 
-### What I Usually Use
+## What I Usually Use
 
 * **Programming Languages:** C/ C++, Go, Python <br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=light" /></a> 
