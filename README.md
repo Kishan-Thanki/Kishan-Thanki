@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-Working with backend architecture and cloud infrastructure. What pulls me is the platform layer — the services, tooling, and reliability work everything else runs on. 
+Working with backend architecture and cloud infrastructure. What pulls me is the platform layer — the invisible mechanics that make everything run. 
 
 ## Socials:
 [kishanthanki.dev](https://kishanthanki.dev)
