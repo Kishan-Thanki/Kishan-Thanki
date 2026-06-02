@@ -1,9 +1,9 @@
-# 👋🏻 Hello, I'm **Kishan Thanki**
+# Hello, I'm **Kishan Thanki**
 
 **Software Engineer**
 working with backend architecture and cloud infrastructure. All about the interesting engineering — the invisible mechanics that make everything run
 
-## Socials:
+## Contacts:
 [kishanthanki.dev](https://kishanthanki.dev)
 
 [kishanthankiat10@gmail.com](mailto:kishanthankiat10@gmail.com)
