@@ -6,8 +6,6 @@ working with backend architecture and cloud infrastructure. All about the intere
 ## Contacts:
 [kishanthanki.dev](https://kishanthanki.dev)
 
-[kishanthankiat10@gmail.com](mailto:kishanthankiat10@gmail.com)
-
 [linkedin.com/in/kishanthanki8/](https://www.linkedin.com/in/kishanthanki8/)
 
 *Feel free to explore my repositories and connect if you’d like to collaborate.*
