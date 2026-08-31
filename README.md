@@ -1,6 +1,6 @@
 # Hello, I'm **Kishan Thanki**
 
-**Backend Engineer (Go & Python)** - working across DevOps & AI
+**Backend Developer** - working across DevOps & AI
 
 ## Contacts
 [![Portfolio](https://img.shields.io/badge/Website-2563EB?style=for-the-badge)](https://kishan-thanki.github.io/kishanthanki/)
