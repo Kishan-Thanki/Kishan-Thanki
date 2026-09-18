@@ -1,10 +1,16 @@
 # Hello, I'm **Kishan Thanki**
 
-Backend Developer | Python | DevOps | Cloud Infrastructure
+I'm a Software Engineer working on building reliable systems, automation, and scalable deployments. My work tends to sit behind the scenes — the systems, infrastructure, and pipelines that need to keep working long after the demo is over.
 
-I build backend services, APIs, and infrastructure with a focus on reliability, automation, and maintainability.
+I care about clean architecture over clever shortcuts, decisions backed by evidence rather than assumptions, and systems that are boring in the best way: predictable, well-documented, and easy for someone else to pick up. I'm as comfortable working close to the infrastructure layer as I am building the services that run on top of it.
 
-I build backend projects, developer tools, and infrastructure automation. Feel free to explore my repositories to see how I approach backend engineering, automation, and production-oriented systems.
+- **Designing the parts users never see** — backend services and internal systems built to be dependable, not just functional.
+- **Making releases boring** — automating the repetitive parts of shipping so deployments are predictable, not eventful.
+- **Building for the failure case** — designing for graceful degradation and real-world conditions, not just the ideal path.
+
+Have a technical problem worth solving? Let's talk.
+
+More of my work and ways to reach me — you'll find it through my socials.
 
 ## Contacts
 
